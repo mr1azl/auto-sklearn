@@ -17,7 +17,6 @@ ConfigArgParse
 liac-arff
 pandas
 Cython
-xgboost
 
 ConfigSpace
 pynisher>=0.4
